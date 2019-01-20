@@ -25,14 +25,14 @@
 	border: 1px solid lightGray; 
 	padding: 25px; 
 	margin: auto;
-	height: auto;
 }
 .papildomas {
 	background-color: #f2f2f2;
 	margin: auto;
 	border:1px solid lightGray;
 	padding: 25px;
-	height: auto;
+	height: 85%;
+	width:auto;
 }
 .papildomas2 {
 	background-color: #f2f2f2;
