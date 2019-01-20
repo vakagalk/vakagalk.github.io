@@ -1,0 +1,120 @@
+.pirmas {
+	background-color: #F8F8FF;
+	border:1px solid lightGray; 
+	padding: 25px;
+	margin: auto; 
+	height: 50px;
+	width: auto;	
+}
+.antras {
+	background-color: white; 
+	border: 1px solid lightGray; 
+	padding: 25px; 
+	margin: auto;
+	height: 400px;
+}
+.antras2 {
+	background-color: white; 
+	border: 1px solid lightGray; 
+	padding: 25px; 
+	margin: auto;
+	height: 80%;
+}
+.trecias {
+	background-color: #F8F8FF; 
+	border: 1px solid lightGray; 
+	padding: 25px; 
+	margin: auto;
+	height: auto;
+}
+.papildomas {
+	background-color: #f2f2f2;
+	margin: auto;
+	border:1px solid lightGray;
+	padding: 25px;
+	height: auto;
+}
+.papildomas2 {
+	background-color: #f2f2f2;
+	margin: auto;
+	border:1px solid lightGray;
+	padding: 25px;
+	height: 70%;
+	width: auto;
+}
+.pagrindinis {
+	background-color: #F8F8FF;
+	border: 1px solid lightGray; 
+	padding: 25px;
+	margin: auto;
+	height: 300px;
+	width: 29%;
+	float: left;
+}
+.pavadinimas {
+	background-color: #fc8a54;
+	border: 1px solid lightGray;
+	padding: 25px;
+	margin: auto;
+	height: 15px;
+	width: 20%;
+	float: left;
+	
+} 
+.paveiksliukas {
+	background-color:white; 
+	border: 1px solid lightGray; 
+	width:150px; 
+	height:200px; 
+    margin:auto;
+    padding:0;
+}
+.tekstas1 {
+	background-color: #fc8a54;
+	border: 1px solid lightGray;
+	padding: 0px;
+	margin: auto;
+	height: 110px;
+	width: 200px;
+	text-align: center;
+}
+body {
+	background-color: #f2f2f2;
+	font-family: Courier;
+	font-size: 18px;
+}
+.tekstas2 {
+	background-color: #f2f2f2;
+	border: 1px solid lightGray;
+	padding: 25px;
+	margin: auto; 
+	height: auto;
+}
+a:link { 
+	color: #cc6600;
+	text-decoration: none;
+}
+a:visited {
+	color: #994d00;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 110%;
+}
+a {
+	font-weight: bold;
+}
+h5 {
+	font-size: 10px;
+	font-weight: bold;
+}
+.linkas {
+	font-size: 10px;
+}
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+}
+.b {
+	font-size: 25px;
+}	
